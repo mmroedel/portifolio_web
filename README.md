@@ -1,2 +1,2 @@
 # portifolio_web
-Repositório destinado ao versionamento de portifólio web pessoal.
+Repositório destinado ao versionamento de portifólio web pessoal de teste.
